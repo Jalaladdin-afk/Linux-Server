@@ -1,4 +1,4 @@
 # show 
 
-![Call Center Image](/img/callcenter.img)
+![Call Center Image](/Module2/img/callcenter.img)
 
