@@ -1,6 +1,6 @@
 # Command for repeating
 
-### Module 1
+# Module 1
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-### Module 2
+# Module 2
 
 
 **`man`** — Просмотр справки по команде  
